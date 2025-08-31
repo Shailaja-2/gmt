@@ -11,7 +11,7 @@ const About = () => {
           <div className="relative">
             <div className="relative z-10">
               <img 
-                src="assets/imagedr.jpg" 
+                src="/assets/imagedr.jpg" 
                 alt="Dr. Serena Blake"
                 className="rounded-2xl shadow-2xl w-full object-cover"
               />

@@ -3,22 +3,22 @@ import React from 'react';
 const Approach = () => {
   const principles = [
     {
-      image: "assets/grp.jpg",
+      image: "/assets/grp.jpg",
       title: "Goal-Oriented",
       description: "We work together to identify clear, achievable goals and create a roadmap for your healing journey."
     },
     {
-      image: "assets/methods.jpg",
+      image: "/assets/methods.jpg",
       title: "Evidence-Based",
       description: "I utilize proven therapeutic methods including CBT, DBT, EMDR, and mindfulness-based interventions."
     },
     {
-      image: "assets/idea.jpg",
+      image: "/assets/idea.jpg",
       title: "Insight-Focused",
       description: "Developing self-awareness and understanding the root causes of challenges for lasting change."
     },
     {
-      image: "assets/happy.jpg",
+      image: "/assets/happy.jpg",
       title: "Compassionate",
       description: "A warm, non-judgmental environment where you feel safe to explore and express your authentic self."
     }
