@@ -16,7 +16,7 @@ const Hero = () => {
 
       {/* Background image */}
       <img
-        src="/src/assets/womanimg.jpg"
+        src="assets/womanimg.jpg"
         alt="Peaceful therapy environment"
         className="absolute inset-0 w-full h-full object-cover"
       />
