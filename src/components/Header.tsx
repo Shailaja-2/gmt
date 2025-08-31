@@ -29,7 +29,7 @@ const Header = () => {
         <div className="flex justify-between items-center">
           <div className="flex items-center space-x-2">
             <img
-              src="/assets/OIP.jpeg"
+              src="/OIP.jpeg"
               alt="Logo"
               className="h-10 w-10 rounded "
             />
